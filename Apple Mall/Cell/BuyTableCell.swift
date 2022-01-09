@@ -25,4 +25,4 @@ class BuyTableCell: UITableViewCell {
     @IBAction func appendCart(_ sender: Any) {
     }
 }
-// :-)
+// :-))
